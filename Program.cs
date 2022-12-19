@@ -12,10 +12,10 @@ namespace Names
         {
             var namesData = ReadData();
             Charts.ShowHeatmap(HeatmapTask.GetBirthsPerDateHeatmap(namesData));
-            // Charts.ShowHistogram(HistogramSample.GetHistogramBirthsByYear(namesData));
+            Charts.ShowHistogram(HistogramSample.GetHistogramBirthsByYear(namesData));
             Charts.ShowHistogram(HistogramTask.GetBirthsPerDayHistogram(namesData, "юрий"));
             Charts.ShowHistogram(HistogramTask.GetBirthsPerDayHistogram(namesData, "владимир"));
-            // CreativityTask.ShowYourStatistics(namesData);
+            CreativityTask.ShowYourStatistics(namesData);
             Console.WriteLine();
         }
 
@@ -29,10 +29,6 @@ namespace Names
             return names;
         }
 
-        // А это более короткая версия ReadData(). Она использует механизм языка под названием Linq
-        // Вы можете познакомиться с ней самостоятельно: https://ulearn.azurewebsites.net/Course/Linq
-        // Освоив LINQ решать задачи подобные NamesTask становится гораздо проще и приятнее.
-        // Но это уже совсем другая история.
         private static NameData[] ReadData2()
         {
             return File
