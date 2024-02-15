@@ -1,0 +1,10 @@
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\bin\Debug\AngryBirds.exe.config
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\bin\Debug\AngryBirds.exe
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\bin\Debug\AngryBirds.pdb
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\bin\Debug\TestingRoom.dll
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\obj\Debug\AngryBirds.csproj.AssemblyReference.cache
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\obj\Debug\AngryBirds.csproj.SuggestedBindingRedirects.cache
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\obj\Debug\AngryBirds.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\obj\Debug\AngryBirds.csproj.CopyComplete
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\obj\Debug\AngryBirds.exe
+D:\Рабочий стол\university\programming\practices\1.Angry Birds\obj\Debug\AngryBirds.pdb
